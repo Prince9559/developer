@@ -19,10 +19,10 @@ export default function Testimonial() {
             <div>
 
               <h4 className="author-name">
-                Mr. Binod Kumar Mishra, Principal
+                Mr. Champak Roy, Manager
               </h4>
               
-              <p className="author-school">Raj English School</p>
+              <p className="author-school">Varanasi Software Junction</p>
             </div>
           </div>
         </div>

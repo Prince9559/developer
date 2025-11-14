@@ -8,14 +8,14 @@ export default function Footer() {
 
 
         <div className="footer-column">
-          <h3>A2 Developers</h3>
+          <h3>Varanasi Software Junction</h3>
           <p>
-            A2 Developers is the premier agency directory, awards platform,
+            Varanasi Software Junction is the premier agency directory, awards platform,
             and media hub connecting brands with top agencies in software,
             app development, design. We deliver vetted reviews, insights,
             and trends to drive business growth.
           </p>
-          <p>© A2 Developers 2024 - 25, All Rights Reserved</p>
+          <p>© Varanasi Software Junction 2024 - 25, All Rights Reserved</p>
         </div>
 
 

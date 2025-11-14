@@ -21,9 +21,9 @@ function Navbar({ onOpenForm }) {
         <button className="demo-btn" onClick={onOpenForm}><div className="fading">Book A Demo ▶</div></button>
 
         <div className="contact-info">
-          <a href="tel:+918303837930">📞 +91 83038 37930</a>
+          <a href="tel:+918303837930">📞 +91 9559618602</a>
           <a href="mailto:contactus@a2developers.org">
-            📧 contactus@a2developers.org
+            📧 kumarprince95596186@gmail.com
           </a>
         </div>
       </div>
@@ -33,8 +33,8 @@ function Navbar({ onOpenForm }) {
 
           <div className="logo-text">
             
-            <span className="logo-main">A2</span>
-            <span className="logo-sub">Developers</span>
+            <span className="logo-main"></span>
+            <span className="logo-sub">Varanasi Software Junction</span>
           </div>
         </div>
 

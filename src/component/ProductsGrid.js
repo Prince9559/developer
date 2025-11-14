@@ -17,7 +17,7 @@ export default function ProductsGrid() {
     <section className="products-section">
       <div className="products-container">
         <h2>
-          Product <span className="highlight">Vidyamint</span> for every Learning need
+          Product <span className="highlight">Varanasi Software Junction</span> for every Learning need
         </h2>
         <div className="products-grid">
           
