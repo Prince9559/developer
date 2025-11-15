@@ -15,7 +15,7 @@ export default function Testimonial() {
           </p>
 
           <div className="testimonial-author">
-            <img src="/Pic/ss.jpg" alt="Mr. Binod Kumar Mishra"className="author-img"/>
+            <img src="/Pic/sir.jpg" alt="Mr. Champak Roy"className="author-img"/>
             <div>
 
               <h4 className="author-name">
