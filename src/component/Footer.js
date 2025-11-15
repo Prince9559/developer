@@ -58,24 +58,23 @@ export default function Footer() {
             <li>Search Engine Optimization</li>
           </ul>
           <a
-            href="https://api.whatsapp.com/send/?phone=%2B918303837930&text=I+am+Looking+for+a+school+ERP+%2C+Please+Share+Me+More+Details+about+how+to+Enroll.&type=phone_number&app_absent=0"
+            href="https://wa.me/919559618602"
             target="_blank"
             rel="noopener noreferrer"
-            className="whatsapp-btn"
-          >
+            className="whatsapp-btn">
             WhatsApp
           </a>
           <div className="social-icons">
-            <a href="https://www.linkedin.com/company/a2-developers/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/prince-kumar-724160333/" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-linkedin"></i>
             </a>
-            <a href="https://www.facebook.com/people/VidyaMint/61566325152930/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/share/188L8ad4ag/" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-facebook"></i>
             </a>
-            <a href="https://www.instagram.com/a2.developers/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/roshan_bind12?utm_source=qr&igsh=MWV5dHQ5NTVrbzh0Mw==" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-instagram"></i>
             </a>
-            <a href="https://www.youtube.com/@VidyaMint12" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.youtube.com/@champaksworld" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-youtube"></i>
             </a>
           </div>
