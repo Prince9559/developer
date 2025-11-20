@@ -6,7 +6,7 @@ function HeroSection({ onOpenForm }) {
     <section className="hero-section">
       <div className="hero-content">
         <div className="hero-image">
-          <img src="/Pic/girl.jpg" alt="Educational Management" />
+          <div className="f"><img src="/Pic/girl.jpg" alt="Educational Management" /></div>
         </div>
 
         <div className="hero-text">

@@ -1,6 +1,6 @@
 
 .hero-section {
-  background-color:rgba(245, 245, 245, 0.833);
+  background-color:rgba(245, 245, 245, 0.856);
   padding: 50px 0;
 }
 
@@ -58,4 +58,9 @@
 
 .fff{
       animation: fadeAnimation 2s infinite;
+    }
+
+
+.f{
+      animation: fadeAnimation 5s infinite;
     }
