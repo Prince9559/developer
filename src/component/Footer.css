@@ -105,3 +105,6 @@
     grid-template-columns: 1fr;
   }
 }
+.b{
+    animation: fadeAnimation 2s infinite;
+  }

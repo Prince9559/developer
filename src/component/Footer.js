@@ -62,7 +62,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
             className="whatsapp-btn">
-            WhatsApp
+           <div className="b">WhatsApp</div>
           </a>
           <div className="social-icons">
             <a href="https://www.linkedin.com/in/prince-kumar-724160333/" target="_blank" rel="noopener noreferrer">
