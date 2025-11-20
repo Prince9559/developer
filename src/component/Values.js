@@ -39,7 +39,7 @@ export default function Values() {
     <section className="values-section">
       <h2 className="values-heading">VALUE THAT DEFINES US</h2>
       <p className="values-subheading">
-        At A2 Developers, we believe that people move the world forward and deserve the best
+        At Varanasi Software Junction, we believe that people move the world forward and deserve the best
         technology in this pursuit.
       </p>
 

@@ -21,7 +21,7 @@ function HeroSection({ onOpenForm }) {
             embrace a smarter, faster way to manage your institution!
           </p>
           <button className="demo-btn" onClick={onOpenForm}>
-            Book a Demo
+            <div className="fff">Book a Demo</div>
           </button>
         </div>
       </div>

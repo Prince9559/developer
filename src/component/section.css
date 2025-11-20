@@ -55,3 +55,7 @@
 .hero-btn:hover {
   background-color: #003ea1;
 }
+
+.fff{
+      animation: fadeAnimation 2s infinite;
+    }

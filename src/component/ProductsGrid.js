@@ -16,8 +16,8 @@ export default function ProductsGrid() {
   return (
     <section className="products-section">
       <div className="products-container">
-        <h2>
-          Product <span className="highlight">Varanasi Software Junction</span> for every Learning need
+        <h2 className="a">
+         Product <span className="highlight">Varanasi Software Junction</span> for every Learning need
         </h2>
         <div className="products-grid">
           
