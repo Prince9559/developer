@@ -22,11 +22,12 @@ export default function Footer() {
         <div className="footer-column">
           <h4>WHO WE ARE</h4>
           <ul>
-            <li>Home</li>
-            <li>Product</li>
-            <li>Contact</li>
-            <li>About</li>
-          </ul>
+<li onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}> Home</li>
+<li onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}> Product</li>            
+<li onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}> Contact</li>           
+
+<li onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}> About</li>          
+</ul>
         </div>
 
 
